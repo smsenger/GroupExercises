@@ -1,0 +1,1 @@
+This contains Friday exercises -- algorhythms, including the "fizzbuzz" problem.
